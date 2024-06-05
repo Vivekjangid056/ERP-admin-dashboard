@@ -28,3 +28,27 @@
 .btn.header-item {
     float: left;
 }
+
+#page-topbar .bhagwa{
+    background: linear-gradient(to right, #FFF95B, #FF930F)
+}
+
+#page-topbar .profile-summary-image{
+    margin: 2rem 5rem;
+    width: 6.5rem;
+    height: 6.5rem;
+    border-radius: 50%;
+}
+
+#page-topbar .kala a{
+    color: black;
+}
+
+#page-topbar .profile p{
+    text-align: center;
+    color: black;
+}
+
+#page-topbar .profile .dropdown-menu{
+    background: linear-gradient(to right, #FFF95B, #FF930F)
+}
