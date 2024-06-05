@@ -23,7 +23,7 @@
     flex-direction: column;
 }
 .dropdown-item .item-title {
-    font-weight: bold;
+    font-weight: 500;
 }
 .btn.header-item {
     float: left;
